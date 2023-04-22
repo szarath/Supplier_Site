@@ -1,5 +1,5 @@
 # Supplier_Site
-This is a 3 tier soluion. The front end is made using angular, Middle-tier is made using Asp.net Core Web API and the Databae is made using MS SQL.  
+This is a 3 tier soluion. The front end is made using angular, Middle-tier is made using Asp.net Core Web API with a code first approach(default data is populated in code) and the Databae is made using MS SQL.  
 
     Prerequisites
         Open project using Visual Studio

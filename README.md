@@ -11,7 +11,8 @@ This is a 3 tier soluion. The front end is made using angular, Middle-tier is ma
 Running the "Dotnet Run" command will spin up the swagger on https://localhost:7257/swagger/index.html 
 and at the same time spin up the angular app on https://localhost:7257/
 
-Mentions There is no data present and you need to run the update-database for all the defualt values to be populated.
+    Mentions 
+    There is no data present and you need to run the update-database for all the defualt values to be populated.
 
 # Main page
 ![Main](https://user-images.githubusercontent.com/9131084/233798989-342ed115-be14-40b6-b570-cfb1410dc4a9.PNG)

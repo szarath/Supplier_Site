@@ -54,12 +54,11 @@ app.UseEndpoints(endpoints =>
 
 app.UseStaticFiles();
 
-var check3 = Path.GetFullPath(Path.Combine(Path.GetDirectoryName(Directory.GetCurrentDirectory()), "supplier-app", "dist", "supplier-app"));
-var fileProvider = new PhysicalFileProvider(check3);
+var web_site = Path.GetFullPath(Path.Combine(Path.GetDirectoryName(Directory.GetCurrentDirectory()), "supplier-app", "dist", "supplier-app"));
 
 app.UseSpa(spa =>
 {
-    spa.Options.SourcePath = check3;
+    spa.Options.SourcePath = web_site;
     if (app.Environment.IsDevelopment())
     {
         spa.UseAngularCliServer(npmScript: "start");

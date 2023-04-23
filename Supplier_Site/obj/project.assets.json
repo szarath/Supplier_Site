@@ -3865,11 +3865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Supplier_Site\\Supplier_Site\\Supplier_Site.csproj",
+      "projectUniqueName": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Supplier_Site.csproj",
       "projectName": "Supplier_Site",
-      "projectPath": "C:\\Supplier_Site\\Supplier_Site\\Supplier_Site.csproj",
+      "projectPath": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Supplier_Site.csproj",
       "packagesPath": "C:\\Users\\Szarath\\.nuget\\packages\\",
-      "outputPath": "C:\\Supplier_Site\\Supplier_Site\\obj\\",
+      "outputPath": "C:\\Repos\\Supplier_Site\\Supplier_Site\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

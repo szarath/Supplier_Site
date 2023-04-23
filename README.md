@@ -5,8 +5,12 @@ This is a 3 tier soluion. The front end is made using angular, Middle-tier is ma
         Open project using Visual Studio
         Edit appsettings.json file where SupplierDB is edit the string to match your database connection string
         Run add-migration "your_initial_migraiton" in package manage console in visual studio
-        Run update-database in package manage console in visual studio
-        Next navigate to the Supplier_Site folder and using the command line run "Dotnet Run".
+        Run update-database in package manage console in visual studio.
+        
+        Next navigate to the "supplier-app" folder and using the command line run "npm install". 
+        This will install all the angular dependencies.
+        
+        Next navigate to the "Supplier_Site" folder and using the command line run "Dotnet Run".
         
 Running the "Dotnet Run" command will spin up the swagger on https://localhost:7257/swagger/index.html 
 and at the same time spin up the angular app on https://localhost:7257/

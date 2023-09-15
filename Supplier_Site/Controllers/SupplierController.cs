@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 using Supplier_Site.Models;
 using Supplier_Site.Services;
 
@@ -9,25 +10,26 @@ namespace Supplier_Site.Controllers
     [ApiController]
     public class SupplierController : ControllerBase
     {
-        private readonly SupplierDbContext _context;
+        private readonly ISupplierService _supplierService;
 
-        public SupplierController(SupplierDbContext context)
+        public SupplierController(ISupplierService supplierService)
         {
-            _context = context;
+            _supplierService = supplierService;
         }
 
         // GET: api/Supplier
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Supplier>>> GetSuppliers()
+        public ActionResult<IEnumerable<Supplier>> GetSuppliers()
         {
-            return await _context.Suppliers.ToListAsync();
+            var suppliers = _supplierService.GetAll();
+            return Ok(suppliers);
         }
 
         // GET: api/Supplier/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Supplier>> GetSupplier(int id)
+        public ActionResult<Supplier> GetSupplier(int id)
         {
-            var supplier = await _context.Suppliers.FindAsync(id);
+            var supplier = _supplierService.GetById(id);
 
             if (supplier == null)
             {
@@ -36,77 +38,53 @@ namespace Supplier_Site.Controllers
 
             return supplier;
         }
+
         [HttpGet("name/{name}")]
-        public async Task<ActionResult<IEnumerable<Supplier>>> GetSupplier(string name)
+        public ActionResult<IEnumerable<Supplier>> GetSupplierByName(string name)
         {
-            var suppliers = await _context.Suppliers.Where(s => s.Name.Contains(name)).ToListAsync();
+            var suppliers = _supplierService.SearchByName(name);
 
             if (suppliers == null)
             {
                 return NotFound();
             }
 
-            return suppliers;
+            return Ok(suppliers);
         }
+
         // POST: api/Supplier
         [HttpPost]
-        public async Task<ActionResult<Supplier>> PostSupplier(Supplier supplier)
+        public IActionResult PostSupplier(Supplier supplier)
         {
-            _context.Suppliers.Add(supplier);
-            await _context.SaveChangesAsync();
-
+            _supplierService.Add(supplier);
             return CreatedAtAction("GetSupplier", new { id = supplier.Id }, supplier);
         }
 
         // PUT: api/Supplier/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutSupplier(int id, Supplier supplier)
+        public IActionResult PutSupplier(int id, Supplier supplier)
         {
             if (id != supplier.Id)
             {
                 return BadRequest();
             }
 
-            _context.Entry(supplier).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!SupplierExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
+            _supplierService.Update(supplier);
             return NoContent();
         }
 
         // DELETE: api/Supplier/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult<Supplier>> DeleteSupplier(int id)
+        public IActionResult DeleteSupplier(int id)
         {
-            var supplier = await _context.Suppliers.FindAsync(id);
-            if (supplier == null)
+            var existingSupplier = _supplierService.GetById(id);
+            if (existingSupplier == null)
             {
                 return NotFound();
             }
 
-            _context.Suppliers.Remove(supplier);
-            await _context.SaveChangesAsync();
-
-            return supplier;
-        }
-
-        private bool SupplierExists(int id)
-        {
-            return _context.Suppliers.Any(e => e.Id == id);
+            _supplierService.Delete(id);
+            return Ok(existingSupplier);
         }
     }
 }

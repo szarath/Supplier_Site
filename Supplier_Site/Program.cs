@@ -1,39 +1,23 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.FileProviders;
 using System.IO;
-using Supplier_Site.Models;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.SpaServices.AngularCli;
-using Supplier_Site.Services;
-using Supplier_Site.Repository;
+using Supplier_Site;
 
 var builder = WebApplication.CreateBuilder(args);
+var configuration = new ConfigurationBuilder()
+    .SetBasePath(Directory.GetCurrentDirectory())
+    .AddJsonFile("appsettings.json")
+    .Build();
 
-// Add services to the container.
+builder.Services.AddSingleton(configuration); // Add configuration as a singleton
 
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<SupplierDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("SupplierDB")));
-
-builder.Services.AddScoped<ISupplierRepository, SupplierRepository>();
-builder.Services.AddScoped<ISupplierService, SupplierService>();
-
-// Enable CORS
-builder.Services.AddCors(options =>
-{
-    options.AddDefaultPolicy(builder =>
-    {
-        builder.AllowAnyOrigin()
-            .AllowAnyHeader()
-            .AllowAnyMethod();
-    });
-});
+// Use the Startup class to configure services
+builder.Services.AddApplicationServices(configuration.GetConnectionString("SupplierDB"));
 
 var app = builder.Build();
 
@@ -59,7 +43,7 @@ app.UseEndpoints(endpoints =>
 
 app.UseStaticFiles();
 
-var web_site = Path.GetFullPath(Path.Combine(Path.GetDirectoryName(Directory.GetCurrentDirectory()), "supplier-app", "dist", "supplier-app"));
+var web_site = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), "supplier-app", "dist", "supplier-app"));
 
 app.UseSpa(spa =>
 {
@@ -69,6 +53,5 @@ app.UseSpa(spa =>
         spa.UseAngularCliServer(npmScript: "start");
     }
 });
-
 
 app.Run();

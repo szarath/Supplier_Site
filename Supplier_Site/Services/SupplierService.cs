@@ -5,9 +5,9 @@ namespace Supplier_Site.Services
 {
     public class SupplierService : ISupplierService
     {
-        private readonly SupplierRepository _repository;
+        private readonly ISupplierRepository _repository;
 
-        public SupplierService(SupplierRepository repository)
+        public SupplierService(ISupplierRepository repository)
         {
             _repository = repository;
         }

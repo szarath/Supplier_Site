@@ -7,6 +7,8 @@ using System.IO;
 using Supplier_Site.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.SpaServices.AngularCli;
+using Supplier_Site.Services;
+using Supplier_Site.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +20,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<SupplierDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("SupplierDB")));
+
+builder.Services.AddScoped<ISupplierRepository, SupplierRepository>();
+builder.Services.AddScoped<ISupplierService, SupplierService>();
 
 // Enable CORS
 builder.Services.AddCors(options =>

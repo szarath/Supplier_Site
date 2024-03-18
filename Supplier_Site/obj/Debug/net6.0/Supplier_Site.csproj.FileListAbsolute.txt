@@ -168,9 +168,10 @@ C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\staticwebassets.build.json
 C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\staticwebassets.development.json
 C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\scopedcss\bundle\Supplier_Site.styles.css
-C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\Supplier_Site.csproj.CopyComplete
 C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\Supplier_Site.dll
 C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\refint\Supplier_Site.dll
 C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\Supplier_Site.pdb
 C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\Supplier_Site.genruntimeconfig.cache
 C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\ref\Supplier_Site.dll
+C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\Supplier_Site.sourcelink.json
+C:\Repos\Supplier_Site\Supplier_Site\obj\Debug\net6.0\Supplier.91D31890.Up2Date

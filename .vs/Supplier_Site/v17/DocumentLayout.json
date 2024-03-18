@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\Supplier_Site\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\supplier_site.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\supplier_site.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Szarath\\AppData\\Local\\SourceServer\\4e3e0f27afb0cec2bca3a393d623d2d6313d99232ba967ad1c9df6ac7d9dbded\\src\\DefaultBuilder\\src\\WebApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|C:\\Repos\\Supplier_Site\\supplier-app\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|solutionrelative:supplier-app\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\repository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\repository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\models\\supplierdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\models\\supplierdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\migrations\\supplierdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\migrations\\supplierdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|solutionrelative:supplier-app\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|solutionrelative:supplier-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|solutionrelative:supplier-app\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\supplier.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|solutionrelative:supplier-app\\src\\app\\supplier.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|solutionrelative:supplier-app\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\migrations\\20230422080729_updatesuppliertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\migrations\\20230422080729_updatesuppliertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Szarath\\AppData\\Local\\SourceServer\\e590faeaeda972a57eb3afb7ccc34c38dd25432901ac2b4e95cceb320de9e148\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\services\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\services\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Szarath\\AppData\\Local\\SourceServer\\4a2b15863f4eb95e36a1f9ff67301fa2622c023559fd57d4f9c2bb3c6931a5af\\src\\libraries\\Microsoft.Extensions.Hosting.Abstractions\\src\\HostingAbstractionsHostExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Supplier_Site\\supplier-app|C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Supplier_Site\\supplier-app|solutionrelative:supplier-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|C:\\Repos\\Supplier_Site\\supplier-app\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|solutionrelative:supplier-app\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|c:\\repos\\supplier_site\\supplier_site\\supplier_site.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EC4E46A7-BCF3-4005-B054-C9E48BECE12E}|Supplier_Site\\Supplier_Site.csproj|solutionrelative:supplier_site\\supplier_site.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|C:\\Repos\\Supplier_Site\\supplier-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|solutionrelative:supplier-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|C:\\Repos\\Supplier_Site\\supplier-app\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|solutionrelative:supplier-app\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|C:\\Repos\\Supplier_Site\\supplier-app\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228CA2EF-E6C9-4CA8-A2CF-89EBAE628A8E}|C:\\Repos\\Supplier_Site\\supplier-app|solutionrelative:supplier-app\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{51d8ca1e-4698-404c-a37b-a4a41603557b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Supplier_Site",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Supplier_Site.csproj",
+              "RelativeDocumentMoniker": "Supplier_Site\\Supplier_Site.csproj",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Supplier_Site.csproj",
+              "RelativeToolTip": "Supplier_Site\\Supplier_Site.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T19:40:55.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Szarath\\AppData\\Local\\SourceServer\\4e3e0f27afb0cec2bca3a393d623d2d6313d99232ba967ad1c9df6ac7d9dbded\\src\\DefaultBuilder\\src\\WebApplication.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Szarath\\AppData\\Local\\SourceServer\\4e3e0f27afb0cec2bca3a393d623d2d6313d99232ba967ad1c9df6ac7d9dbded\\src\\DefaultBuilder\\src\\WebApplication.cs",
+              "ToolTip": "C:\\Users\\Szarath\\AppData\\Local\\SourceServer\\4e3e0f27afb0cec2bca3a393d623d2d6313d99232ba967ad1c9df6ac7d9dbded\\src\\DefaultBuilder\\src\\WebApplication.cs",
+              "RelativeToolTip": "..\\..\\Users\\Szarath\\AppData\\Local\\SourceServer\\4e3e0f27afb0cec2bca3a393d623d2d6313d99232ba967ad1c9df6ac7d9dbded\\src\\DefaultBuilder\\src\\WebApplication.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAewJ8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:39:43.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\ServiceExtensions.cs",
+              "RelativeToolTip": "Supplier_Site\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:49:11.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Repository\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\Repository\\ISupplierRepository.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Repository\\ISupplierRepository.cs",
+              "RelativeToolTip": "Supplier_Site\\Repository\\ISupplierRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:15:34.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "Supplier_Site\\Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:34:42.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Program.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\Program.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Program.cs",
+              "RelativeToolTip": "Supplier_Site\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:15:34.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\appsettings.json",
+              "RelativeDocumentMoniker": "Supplier_Site\\appsettings.json",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\appsettings.json",
+              "RelativeToolTip": "Supplier_Site\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-09-16T13:15:34.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Models\\Supplier.cs",
+              "RelativeToolTip": "Supplier_Site\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:21:52.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupplierDbContext.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Models\\SupplierDbContext.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\Models\\SupplierDbContext.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Models\\SupplierDbContext.cs",
+              "RelativeToolTip": "Supplier_Site\\Models\\SupplierDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:15:34.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SupplierDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Migrations\\SupplierDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\Migrations\\SupplierDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Migrations\\SupplierDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Supplier_Site\\Migrations\\SupplierDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAIwNwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:15:34.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Supplier_Site\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:27:41.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Repository\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\Repository\\SupplierRepository.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Repository\\SupplierRepository.cs",
+              "RelativeToolTip": "Supplier_Site\\Repository\\SupplierRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:15:34.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20230422080729_UpdateSupplierTable.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Migrations\\20230422080729_UpdateSupplierTable.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\Migrations\\20230422080729_UpdateSupplierTable.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Migrations\\20230422080729_UpdateSupplierTable.cs",
+              "RelativeToolTip": "Supplier_Site\\Migrations\\20230422080729_UpdateSupplierTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:15:34.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\Services\\SupplierService.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Services\\SupplierService.cs",
+              "RelativeToolTip": "Supplier_Site\\Services\\SupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:15:34.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebApplicationBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Szarath\\AppData\\Local\\SourceServer\\e590faeaeda972a57eb3afb7ccc34c38dd25432901ac2b4e95cceb320de9e148\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Szarath\\AppData\\Local\\SourceServer\\e590faeaeda972a57eb3afb7ccc34c38dd25432901ac2b4e95cceb320de9e148\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ToolTip": "C:\\Users\\Szarath\\AppData\\Local\\SourceServer\\e590faeaeda972a57eb3afb7ccc34c38dd25432901ac2b4e95cceb320de9e148\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeToolTip": "..\\..\\Users\\Szarath\\AppData\\Local\\SourceServer\\e590faeaeda972a57eb3afb7ccc34c38dd25432901ac2b4e95cceb320de9e148\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAkwOgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:23:38.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Services\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Supplier_Site\\Services\\ISupplierService.cs",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Services\\ISupplierService.cs",
+              "RelativeToolTip": "Supplier_Site\\Services\\ISupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-16T13:15:34.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HostingAbstractionsHostExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Szarath\\AppData\\Local\\SourceServer\\4a2b15863f4eb95e36a1f9ff67301fa2622c023559fd57d4f9c2bb3c6931a5af\\src\\libraries\\Microsoft.Extensions.Hosting.Abstractions\\src\\HostingAbstractionsHostExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Szarath\\AppData\\Local\\SourceServer\\4a2b15863f4eb95e36a1f9ff67301fa2622c023559fd57d4f9c2bb3c6931a5af\\src\\libraries\\Microsoft.Extensions.Hosting.Abstractions\\src\\HostingAbstractionsHostExtensions.cs",
+              "ToolTip": "C:\\Users\\Szarath\\AppData\\Local\\SourceServer\\4a2b15863f4eb95e36a1f9ff67301fa2622c023559fd57d4f9c2bb3c6931a5af\\src\\libraries\\Microsoft.Extensions.Hosting.Abstractions\\src\\HostingAbstractionsHostExtensions.cs",
+              "RelativeToolTip": "..\\..\\Users\\Szarath\\AppData\\Local\\SourceServer\\4a2b15863f4eb95e36a1f9ff67301fa2622c023559fd57d4f9c2bb3c6931a5af\\src\\libraries\\Microsoft.Extensions.Hosting.Abstractions\\src\\HostingAbstractionsHostExtensions.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAewE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-22T17:18:40.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Supplier_Site.csproj",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Supplier_Site.csproj",
+              "RelativeDocumentMoniker": "Supplier_Site\\Supplier_Site.csproj",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\Supplier_Site\\Supplier_Site.csproj",
+              "RelativeToolTip": "Supplier_Site\\Supplier_Site.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-09-16T13:15:34.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAAEUAAAAAAAAAAAhwCkUAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2023-04-22T17:09:30.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\supplier-app\\Web.config",
+              "RelativeDocumentMoniker": "supplier-app\\Web.config",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\supplier-app\\Web.config",
+              "RelativeToolTip": "supplier-app\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2023-09-16T13:54:50.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "supplier-app\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "supplier-app\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2023-09-16T13:38:50.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "supplier-app\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.component.ts",
+              "RelativeToolTip": "supplier-app\\src\\app\\app.component.ts",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2023-09-16T13:38:49.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "supplier-app\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "supplier-app\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2023-09-16T13:37:57.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "supplier.service.spec.ts",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\supplier.service.spec.ts",
+              "RelativeDocumentMoniker": "supplier-app\\src\\app\\supplier.service.spec.ts",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\supplier.service.spec.ts",
+              "RelativeToolTip": "supplier-app\\src\\app\\supplier.service.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2023-09-16T13:37:26.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "supplier-app\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.module.ts",
+              "RelativeToolTip": "supplier-app\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2023-09-16T13:15:34.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "supplier-app\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\app\\app.component.ts",
+              "RelativeToolTip": "supplier-app\\src\\app\\app.component.ts",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2023-09-16T13:15:34.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\supplier-app\\libman.json",
+              "RelativeDocumentMoniker": "supplier-app\\libman.json",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\supplier-app\\libman.json",
+              "RelativeToolTip": "supplier-app\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-09-16T13:15:34.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\supplier-app\\package.json",
+              "RelativeDocumentMoniker": "supplier-app\\package.json",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\supplier-app\\package.json",
+              "RelativeToolTip": "supplier-app\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-09-16T13:15:34.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\supplier-app\\package-lock.json",
+              "RelativeDocumentMoniker": "supplier-app\\package-lock.json",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\supplier-app\\package-lock.json",
+              "RelativeToolTip": "supplier-app\\package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-09-16T13:15:34.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\index.html",
+              "RelativeDocumentMoniker": "supplier-app\\src\\index.html",
+              "ToolTip": "C:\\Repos\\Supplier_Site\\supplier-app\\src\\index.html",
+              "RelativeToolTip": "supplier-app\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2023-09-16T13:15:34.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

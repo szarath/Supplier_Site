@@ -43,7 +43,8 @@ app.UseEndpoints(endpoints =>
 
 app.UseStaticFiles();
 
-var web_site = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), "supplier-app", "dist", "supplier-app"));
+var web_site = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), "..", "supplier-app", "dist", "supplier-app"));
+
 
 app.UseSpa(spa =>
 {
